@@ -12,7 +12,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0',          group: :doc
 
 gem 'devise', '~> 3.5.0'
-gem 'paperclip', '~> 4.2.1'
+gem 'paperclip', '~> 4.3.0'
 gem 'bootstrap-sass', '~> 3.3.4.1'
 gem 'font-awesome-sass', '~> 4.3.0'
 gem 'searchkick', '~> 0.8.7'
